@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garamburor
 - 👀 I’m interested in audio programming and microcontrollers.
-- 🌱 I’m currently learning Steinberg SDK and DSP.
+- 🌱 I’m currently learning DSP & ML.
 
 <!---
 garamburor/garamburor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
