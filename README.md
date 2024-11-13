@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @garamburor
-- 👀 I’m interested in audio programming and microcontrollers.
+- 👀 I’m interested in music technology.
 - 🌱 I’m currently learning DSP & ML.
 
 <!---
